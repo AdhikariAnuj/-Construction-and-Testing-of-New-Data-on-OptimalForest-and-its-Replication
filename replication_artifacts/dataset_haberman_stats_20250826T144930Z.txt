@@ -1,0 +1,4 @@
+dataset=haberman
+rows=306
+features=3
+positive_rate(died<=5y as anomaly)=0.2647

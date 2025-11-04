@@ -1,0 +1,6 @@
+{
+  "type": "reinject",
+  "contamination": 0.01,
+  "seed": 42,
+  "source": "real_malignant"
+}

@@ -1,0 +1,4 @@
+dataset=banknote
+rows=1372
+features=4
+positive_rate(fake_as_anomaly)=0.4446

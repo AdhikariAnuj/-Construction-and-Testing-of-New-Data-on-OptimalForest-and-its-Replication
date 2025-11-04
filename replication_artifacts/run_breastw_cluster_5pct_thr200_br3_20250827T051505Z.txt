@@ -1,0 +1,9 @@
+Dataset: breastw_cluster_5pct
+
+L2OPT:
+	AUC score:	 0.852996177996178
+	AUC std:	 0.00847522961084017
+	PR score:	 0.13726827033840303
+	PR std:	 0.006863515834736798
+	Training time:	 18.762442461649577
+	Testing time:	 14.900220568974813

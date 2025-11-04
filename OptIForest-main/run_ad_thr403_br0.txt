@@ -1,0 +1,16 @@
+Dataset: ad
+
+L2OPT:
+Traceback (most recent call last):
+  File "demo.py", line 49, in <module>
+    y_pred = dtc.decision_function(X)
+  File "C:\Users\yonda\Downloads\OptIForest-main\OptIForest-main\detectors\opt_forest.py", line 69, in decision_function
+    d_depths.append(self._trees[j].predict(self._granularity, transformed_data))
+  File "C:\Users\yonda\Downloads\OptIForest-main\OptIForest-main\detectors\opt_tree.py", line 90, in predict
+    path_length = self._recursive_get_search_depth(
+  File "C:\Users\yonda\Downloads\OptIForest-main\OptIForest-main\detectors\opt_tree.py", line 104, in _recursive_get_search_depth
+    key = lsh_node.get_hash_function().get_hash_value(point[1:])
+  File "C:\Users\yonda\Downloads\OptIForest-main\OptIForest-main\detectors\opt.py", line 165, in get_hash_value
+    newcenter = (self.centers[i]*self.sizes[i] + x) / (self.sizes[i]+1)
+KeyboardInterrupt
+^C

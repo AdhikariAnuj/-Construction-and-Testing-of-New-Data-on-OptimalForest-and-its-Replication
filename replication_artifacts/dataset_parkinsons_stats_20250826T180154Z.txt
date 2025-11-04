@@ -1,0 +1,4 @@
+dataset=parkinsons
+rows=195
+features=22
+positive_rate(status==1 as anomaly)=0.7538

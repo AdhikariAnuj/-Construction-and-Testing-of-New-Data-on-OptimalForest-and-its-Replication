@@ -1,0 +1,7 @@
+{
+  "type": "cluster",
+  "contamination": 0.05,
+  "shift_sigma": 6.0,
+  "cluster_sigma": 0.5,
+  "seed": 42
+}

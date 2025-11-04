@@ -1,0 +1,4 @@
+dataset=glass
+rows=214
+features=9
+positive_rate(non-window as anomaly)=0.2383

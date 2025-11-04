@@ -1,0 +1,4 @@
+dataset=spambase
+rows=4601
+features=57
+positive_rate(spam_as_anomaly)=0.3940

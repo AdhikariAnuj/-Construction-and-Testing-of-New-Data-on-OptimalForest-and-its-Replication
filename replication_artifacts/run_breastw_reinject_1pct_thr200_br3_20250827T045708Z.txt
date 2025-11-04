@@ -1,0 +1,9 @@
+Dataset: breastw_reinject_1pct
+
+L2OPT:
+	AUC score:	 0.9995870870870871
+	AUC std:	 0.0006325938268150601
+	PR score:	 0.9675793650793649
+	PR std:	 0.047889542587517216
+	Training time:	 19.427543210983277
+	Testing time:	 14.435143518447877

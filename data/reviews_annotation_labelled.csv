@@ -1,0 +1,467 @@
+review_id,game_name,rule_anomaly_score,near_incident,days_from_incident,user_playtime_at_review_hours,user_num_reviews,user_num_games,review_votes_up,review_votes_funny,review_steam_purchase,review_received_for_free,expected_anomalies,review_text,anomaly_type,confidence
+208229224,Dota 2,8,0,883,0.633333333,3,0,0,0,0,1,bots,Nice game!,bots,high
+208213736,Call of Duty: Modern Warfare II,8,0,1098,0.533333333,1,0,0,0,0,0,bombing|paid,NICE,bots,high
+208245480,Dota 2,7,0,883,0.2,1,0,0,0,0,0,bots,trash af,normal,low
+208164475,Dota 2,7,0,882,0.083333333,3,0,0,0,0,0,bots,1,bots,high
+208312107,Dota 2,7,0,883,0.866666667,1,0,0,0,0,0,bots,"Free? Seriously? For such a high level of quality, with attention to every detail and animation, stunning voice actors, and a brilliant musical score, most studios would charge $60. Valve has created more than just a game, but a work of art. Every patch with new skins and events is a celebration. The cosmetics are incredibly cool, and the Arcana skins are simply masterpieces.",paid,medium
+208340394,Counter-Strike 2,7,0,766,68.45,1,0,0,0,0,1,bots|bombing,VERY COOL GAME,normal,medium
+208168480,Call of Duty: Modern Warfare II,7,0,1098,0.483333333,2,0,0,0,0,0,bombing|paid,WHY DID YOU BAN ME I DID NOTHING I COULDN'T GET WAR ZONE AND IT WOULDN'T LET ME MAKE A Account SO HOW COULD I HAVE DONE SOMETHING  I DEMAND A UN BAN,bombing,medium
+208114658,Rust,7,0,2525,0.083333333,1,0,0,0,1,1,bots,"good
+",bots,high
+208304085,Dota 2,7,0,883,0.6,1,0,0,0,0,1,bots,"Dota 2 isn't just a game; it's an endless chess game with hundreds of pieces. The depth and complexity of the game are unparalleled. Every game is unique: new heroes, a constantly changing meta, endless possibilities for tactical maneuvers. The feeling when your well-thought-out plan is executed and leads your team to victory is simply indescribable. It's the most intellectually challenging game I've ever played.",normal,medium
+208089061,Dota 2,6,0,881,31.2,2,0,0,0,0,0,bots,WWWWWWWWWWWWWWW,normal,low
+208151251,Dota 2,6,0,882,7552.066667,1,0,0,0,0,1,bots,7500 hours. wow,normal,high
+207660039,Fallout 76,6,0,2535,0.15,10,0,0,0,0,0,bombing,7-Jun,bombing,medium
+208206486,Dota 2,6,0,882,2919.666667,1,0,0,0,0,1,bots,nice,bots,medium
+208055609,Dota 2,6,0,881,16585.51667,1,0,0,0,0,0,bots,A,bots,high
+208179701,Dota 2,6,0,882,0.666666667,2,0,0,0,0,0,bots,Игра прикольная и много русских,bots,high
+208079906,Dota 2,6,0,881,8100.1,1,0,0,0,0,1,bots,"dont, just dont.",normal,high
+207963571,Stardew Valley,6,0,999,20.81666667,1,0,0,0,0,0,normal,IT IS FUN,normal,medium
+208121192,Dota 2,6,0,881,5596.4,1,0,0,0,0,0,bots,"GOOD
+",bots,high
+208117816,Dota 2,6,0,881,2835.95,2,0,0,0,0,1,bots,EVERYTHING IS PERFECT,bots,medium
+208247500,Dota 2,6,0,883,202.4166667,3,0,0,0,0,0,bots,OLD time,normal,medium
+208292438,Dota 2,6,0,883,861.5666667,1,1,0,0,0,1,bots,:thumbs up: :)),normal,high
+208284028,Call of Duty: Modern Warfare II,6,0,1099,39.05,1,0,0,0,0,0,bombing|paid,LOVE IT,normal,high
+208313437,Apex Legends,6,0,2462,12.15,1,0,0,0,0,1,bots|paid,"its really great
+",paid,high
+208295294,Dota 2,6,0,883,0.25,8,0,0,0,0,0,bots,terrible,bombing,medium
+208268062,Dota 2,6,0,883,0.116666667,1,0,0,1,0,0,bots,Chess,bots,medium
+208246466,Dota 2,6,0,883,19.85,1,1,0,0,0,0,bots,"SO GOOOD!
+",bots,high
+208037895,Dota 2,6,0,880,742.5333333,1,0,0,0,0,0,bots,No,normal,medium
+207677115,ELDEN RING,6,0,1336,64.01666667,3,0,0,0,0,0,bombing,Masterpiece,normal,high
+208099430,Grand Theft Auto V,6,0,3060,19.95,1,0,0,0,0,1,bombing,good,normal,medium
+208286570,Apex Legends,6,0,2461,512.6,1,0,0,0,0,1,bots|paid,good i guess,normal,medium
+208291006,Apex Legends,6,0,2461,1511.866667,3,0,0,0,0,1,bots|paid,good,normal,high
+208316154,Counter-Strike 2,6,0,766,56.75,1,0,0,0,0,1,bots|bombing,good,normal,high
+208266937,Apex Legends,6,0,2461,663.75,4,0,0,0,0,0,bots|paid,THRASH,normal,medium
+208125173,Grand Theft Auto V,6,0,3060,1230.05,1,2,0,0,1,1,bombing,GG,normal,medium
+208320166,Counter-Strike 2,6,0,766,11.48333333,1,0,0,0,0,1,bots|bombing,"a bunch of russians kids yelling at you to rush be and they did unspeakable things to your mother
+[absolute cinema] 10/10",normal,medium
+208266941,Call of Duty: Modern Warfare II,6,0,1099,10.01666667,2,0,0,0,0,0,bombing|paid,FUN,normal,medium
+208271966,Call of Duty: Modern Warfare II,6,0,1099,124.2,3,0,0,0,0,1,bombing|paid,ts mad tuff,normal,high
+208074369,Grand Theft Auto V,6,0,3060,58.26666667,1,0,0,0,0,1,bombing,ewf,normal,medium
+208216494,Apex Legends,6,0,2460,1.7,3,0,0,0,0,0,bots|paid,"
+.",bots,high
+208194803,Apex Legends,6,0,2460,4.266666667,1,0,0,0,0,1,bots|paid,This game is really fun and all but the coins are really pricey.Overall 10/10 game,normal,high
+208314985,Dota 2,6,0,884,73.96666667,1,0,0,0,0,0,bots,HARD GAME,normal,high
+208043682,Grand Theft Auto V,6,0,3059,21.25,1,0,0,0,1,1,bombing,GOOD,normal,high
+208277195,Rust,6,0,2527,0.733333333,1,8,0,0,0,0,bots,based asf.,bots,high
+208324783,Dota 2,6,0,884,1.383333333,2,2,0,0,0,0,bots,"
++",bots,medium
+207722978,Hades,6,0,999,69.55,4,0,0,0,0,0,normal,the Best. THE BEST.,normal,high
+208206357,Apex Legends,6,0,2460,712.7166667,2,0,0,0,0,0,bots|paid,Yes,bots,low
+208195345,Apex Legends,6,0,2460,126.2,1,0,0,0,0,0,bots|paid,D,normal,medium
+208326314,Counter-Strike 2,6,0,766,14.11666667,1,0,0,0,0,0,bots|bombing,"SOO GOODD
+",bots,medium
+207957698,Call of Duty: Modern Warfare II,6,0,1096,0.666666667,5,0,0,0,0,0,bombing|paid,i like this game,paid,medium
+208251505,Call of Duty: Modern Warfare II,6,0,1099,18.11666667,1,0,0,0,0,0,bombing|paid,AWEWSOME GAME!,normal,high
+208178893,Helldivers 2,6,0,544,6.85,1,0,0,0,0,1,bombing,It is nice,normal,low
+208216114,Grand Theft Auto V,6,0,3061,1.45,2,0,0,0,1,1,bombing,good,paid,medium
+208235061,Call of Duty: Modern Warfare II,6,0,1099,48.81666667,1,0,0,0,0,1,bombing|paid,.,bots,low
+207968135,Call of Duty: Modern Warfare II,6,0,1096,57.08333333,1,2,0,0,0,0,bombing|paid,10-Oct,bots,low
+208100899,Apex Legends,6,0,2459,192.35,1,0,0,0,0,1,bots|paid,Speaks for itself,normal,medium
+207980551,Call of Duty: Modern Warfare II,6,0,1096,14.6,1,0,0,0,0,0,bombing|paid,HAPPY,normal,low
+208051660,Call of Duty: Modern Warfare II,6,0,1097,1.016666667,1,0,0,0,0,0,bombing|paid,Best game so far,paid,medium
+208354353,Counter-Strike 2,6,0,766,0.566666667,1,1,0,0,1,0,bots|bombing,nice game,paid,medium
+208259553,Helldivers 2,6,0,545,260.4333333,1,0,0,0,0,0,bombing,FOR DEMOCRACY,normal,high
+208165443,Apex Legends,6,0,2460,1219.733333,1,0,0,0,0,0,bots|paid,"BEST GAMEEE
+",normal,high
+208092396,Call of Duty: Modern Warfare II,6,0,1097,0.45,2,0,0,0,0,0,bombing|paid,"redownload 120mg for warzone load into game to it say nothing installed to download warzone another 150mg tf up with this stupid shit 
+",bombing,medium
+208176341,Rust,6,0,2526,0.566666667,2,0,0,0,1,1,bots,"In my opinion this is the highest quality dog-shit game on the market. If you wan't to have the worst gaming experience for a prolonged period of your time. Rust is for you, this game is like fake tits.... initially alluring and promising a great time, but once you get past the surface, you realize it's all style and no substance. Many positive reviews, pretty graphics, glazed by its players. 
+
+I know this is actually an enjoyable experience to some people, im throwing a harsh blanket over this game. But its just not for me, you gotta be a masochistic stepped on freak, or one of the dumbest humans to sink your time in this game, every i've ever met that played this game a lot, wishes they could get that time back.",bombing,medium
+208083670,Call of Duty: Modern Warfare II,6,0,1097,171.5166667,1,0,0,0,0,1,bombing|paid,fu#k this game,normal,low
+208093162,Call of Duty: Modern Warfare II,6,0,1097,195.6,1,0,0,0,0,1,bombing|paid,THIS GAME IS SHIT!!!,normal,low
+208086645,Fallout 76,6,0,2540,0.466666667,1,0,0,0,1,0,bombing,Idk js play it :D,paid,medium
+121583160,Domina,6,0,171,0.766666667,3,0,1,0,0,0,bombing,Need I explain?,normal,low
+208025236,Apex Legends,6,0,2458,50.18333333,2,0,0,0,0,0,bots|paid,NICE,normal,low
+208183057,Rust,6,0,2526,401.5166667,4,0,0,0,0,1,bots,"fun
+",normal,low
+208001578,Apex Legends,6,0,2458,0.983333333,2,0,0,0,0,0,bots|paid,if you like to date your own family and never leave the house this is the game for you.,bombing,low
+208195396,Call of Duty: Modern Warfare II,6,0,1098,14.76666667,1,0,0,0,1,1,bombing|paid,THIS IS BUSINESS,bots,medium
+208115340,Dota 2,6,0,881,1.683333333,1,0,0,0,0,0,bots,hueta,bots,high
+208360302,Call of Duty: Modern Warfare II,6,0,1100,62.48333333,1,0,0,0,0,1,bombing|paid,fun to play,normal,high
+208360841,Call of Duty: Modern Warfare II,6,0,1100,15.05,1,0,0,0,0,1,bombing|paid,it fun,normal,medium
+207860593,Apex Legends,6,0,2456,151.2,3,0,0,0,0,0,bots|paid,W,normal,medium
+208122101,Dota 2,6,0,881,284.6833333,1,0,0,0,0,0,bots,GOAT,normal,high
+208349643,Call of Duty: Modern Warfare II,6,0,1100,17.38333333,1,0,0,0,0,0,bombing|paid,A,bots,medium
+207844538,Palworld,5,0,647,13.86666667,1,0,0,0,0,0,paid|bots,fun af,normal,high
+208338323,Helldivers 2,5,0,546,94.05,1,0,0,0,1,0,bombing,Highly recommend.,normal,high
+208347136,Call of Duty: Modern Warfare II,5,0,1100,96.16666667,1,0,0,0,0,0,bombing|paid,yay,normal,high
+208165913,Dota 2,5,0,882,1297.366667,3,0,0,0,0,0,bots,My guilty pleasure.,normal,high
+208166557,Dota 2,5,0,882,5.3,2,2,0,0,0,0,bots,"wow
+
+",bots,low
+208166740,Dota 2,5,0,882,604.9333333,3,0,0,0,0,0,bots,хуйня,normal,medium
+207928574,Stardew Valley,5,0,999,265.4,2,0,0,0,1,0,normal,"W
+",normal,medium
+207869080,Stardew Valley,5,0,999,268.1666667,1,0,0,0,1,0,normal,YES,normal,medium
+207870250,Stardew Valley,5,0,999,125.2333333,3,0,0,0,1,0,normal,A M A Z I N G,normal,high
+207824068,ELDEN RING,5,0,1338,12.73333333,2,0,0,0,0,0,bombing,This game is peak do not buy it plz,normal,medium
+207872588,Stardew Valley,5,0,999,1.733333333,1,0,0,0,1,0,normal,Good.,normal,high
+207874248,Stardew Valley,5,0,999,102.7166667,1,0,0,0,0,0,normal,fun,normal,high
+207875632,Stardew Valley,5,0,999,391.7833333,2,0,0,0,0,0,normal,I like it,normal,high
+208268116,Rust,5,0,2527,81.38333333,1,0,0,0,0,0,bots,yes,normal,high
+208144858,Dota 2,5,0,882,3535.733333,1,0,0,0,0,0,bots,"played 3,535 hours of dota, Toxic Community, Matchmaking problem, and Braindead metas 10/10",normal,high
+208146966,Dota 2,5,0,882,730.4833333,1,0,0,0,0,0,bots,history,normal,high
+208149605,Dota 2,5,0,882,44.66666667,1,0,0,0,0,0,bots,"slm 
+",normal,high
+207714484,ELDEN RING,5,0,1337,97.4,2,0,0,0,0,1,bombing,this game is really good but i still enjoy dark souls 3 more.,normal,high
+207717534,ELDEN RING,5,0,1337,81.81666667,4,0,0,0,0,0,bombing,Well good,normal,high
+208098634,Palworld,5,0,650,3.25,2,0,0,0,1,0,paid|bots,L0VANDER,paid,low
+121586347,Domina,5,0,171,0.166666667,93,0,2,0,0,1,bombing,"got it for free, played 20 minutes and couldn't be bothered with it
+
+I wouldn't pay for it",nomal,medium
+208324296,Rust,5,0,2528,0.5,2,3,0,0,1,0,bots,dup,bots,medium
+208330537,Rust,5,0,2528,146.7166667,6,0,0,0,0,0,bots,W,normal,medium
+208154241,Call of Duty: Modern Warfare II,5,0,1098,10.11666667,1,0,0,0,0,0,bombing|paid,Great,paid,medium
+208156743,Call of Duty: Modern Warfare II,5,0,1098,7.683333333,1,0,0,0,0,0,bombing|paid,this game is FIRE,paid,medium
+208160389,Call of Duty: Modern Warfare II,5,0,1098,38.91666667,4,0,0,0,0,0,bombing|paid,it is kinda grisch,normal,medium
+208162283,Call of Duty: Modern Warfare II,5,0,1098,35.5,2,4,0,0,0,1,bombing|paid,its a good game,normal,high
+208165900,Call of Duty: Modern Warfare II,5,0,1098,73.58333333,1,0,0,0,0,0,bombing|paid,yo mama,normal,high
+208295220,Call of Duty: Modern Warfare II,5,0,1099,124.6333333,2,0,0,0,0,0,bombing|paid,very fun,normal,high
+208124842,Dota 2,5,0,881,411.45,1,0,0,0,0,0,bots,"Я рот ебал матери Габена, а так игра 10/10, я сын шлюхи",normal,high
+208125196,Dota 2,5,0,881,5282.933333,1,0,0,0,0,1,bots,if they fix the crashing problem every accepting matches,normal,medium
+208116798,Dota 2,5,0,881,1461.5,1,0,0,0,0,0,bots,49% win 99.9% loose,normal,medium
+207802488,ELDEN RING,5,0,1338,83.35,1,0,0,0,0,0,bombing,peak,normal,high
+207767203,ELDEN RING,5,0,1337,246.9833333,4,0,0,0,0,0,bombing,yesh yesh yesh,normal,high
+207769486,ELDEN RING,5,0,1337,99.75,1,0,0,0,0,0,bombing,اسطورية وممتعه,normal,medium
+208142918,Call of Duty: Modern Warfare II,5,0,1098,0.433333333,20,0,0,0,0,0,bombing|paid,Microsoft activation purchase currenlty doesn't work. SOS for military personnel. Use Steam and Bungie for my recommenced. MODW 3 purchase.,bots,high
+208144399,Call of Duty: Modern Warfare II,5,0,1098,17.46666667,1,0,0,0,0,1,bombing|paid,"balright js got bummed
+",bots,medium
+208147488,Call of Duty: Modern Warfare II,5,0,1098,407.1333333,1,0,0,0,0,0,bombing|paid,"its really fun
+",normal,high
+208148730,Call of Duty: Modern Warfare II,5,0,1098,12.1,1,0,0,0,0,0,bombing|paid,w,paid,medium
+208149012,Call of Duty: Modern Warfare II,5,0,1098,40.66666667,1,0,0,0,0,0,bombing|paid,nice game,normal,high
+208151961,Call of Duty: Modern Warfare II,5,0,1098,0.116666667,2,16,0,0,0,0,bombing|paid,shit game money hunger company,bombing,high
+208120585,Rust,5,0,2525,1000.566667,1,1,0,0,0,0,bots,W game,normal,high
+208122970,Rust,5,0,2525,872.1833333,1,2,0,0,1,1,bots,the best game,normal,high
+207823177,The Witcher 3: Wild Hunt,5,0,999,330.0333333,3,0,0,0,0,0,normal,enjoyable,normal,high
+207990781,Apex Legends,5,0,2458,1000.533333,1,1,0,0,0,0,bots|paid,cringe,normal,high
+207993727,Apex Legends,5,0,2458,110.6166667,1,0,0,0,0,0,bots|paid,1,bots,medium
+207998912,Apex Legends,5,0,2458,324.45,1,0,0,0,0,0,bots|paid,gud,normal,low
+208089997,Palworld,5,0,650,1.5,3,0,0,0,1,0,paid|bots,i dont own it but uhm i heard ultrakill is coming 10/10,paid,medium
+121589847,Domina,5,0,171,0.416666667,18,484,0,0,0,1,bombing,"the developer sucks ass, just found out that the dev is also transphobic on top of being antivax (to which i've known about ever since the news got out). seriously this guy sucks",bombing,high
+208181871,Call of Duty: Modern Warfare II,5,0,1098,37.56666667,3,0,0,0,0,0,bombing|paid,gyuk,normal,low
+208194292,Call of Duty: Modern Warfare II,5,0,1098,13.18333333,1,0,0,0,0,0,bombing|paid,67,bots,low
+208357752,Counter-Strike 2,5,0,766,55.3,1,0,0,0,1,0,bots|bombing,GOOD GAME,paid,low
+208002577,Apex Legends,5,0,2458,66.68333333,2,23,0,0,0,0,bots|paid,XD,normal,medium
+208123698,Call of Duty: Modern Warfare II,5,0,1097,4.083333333,3,0,0,0,0,0,bombing|paid,bad,bombing,low
+208124026,Call of Duty: Modern Warfare II,5,0,1097,35.46666667,1,0,0,0,0,0,bombing|paid,gaame na,normal,medium
+208054537,Fallout 76,5,0,2540,13.36666667,4,0,0,0,1,1,bombing,yay,paid,medium
+208136863,Call of Duty: Modern Warfare II,5,0,1098,4.766666667,1,0,0,0,0,0,bombing|paid,"game is shit 
+",bombing,low
+208069028,Apex Legends,5,0,2459,8.783333333,2,0,0,0,0,0,bots|paid," hell yeah
+",normal,low
+208069052,Apex Legends,5,0,2459,132.0166667,1,0,0,0,0,0,bots|paid,no,normal,medium
+208017752,Apex Legends,5,0,2458,932.6666667,1,0,0,0,0,0,bots|paid,"This is the only game I've  ever played that will intentionally make me lock in a legend just to put me in a team with the only other motherfucker who wants to play the same character, Why the fuck can i choose to play Watson if you'll just have another person pick her as well, then you are forced play a random character you didn't want to play just to realize there is literally no other Watson in the entire lobby. God do I hate this game yet i keep coming back  10/10",normal,high
+208019070,Apex Legends,5,0,2458,105.4666667,7,0,0,0,0,0,bots|paid,U,bots,medium
+208020143,Apex Legends,5,0,2458,11.1,1,0,0,0,0,0,bots|paid,"dont play it
+",bombing,low
+208148343,Rust,5,0,2526,0.116666667,2,0,0,0,1,0,bots,"bought Rust because my friend said “it’s chill, like Minecraft but with guns.”
+
+he lied.",bots,high
+208156710,Rust,5,0,2526,342.9666667,1,0,0,0,0,0,bots,Great Game!,normal,medium
+208112057,Call of Duty: Modern Warfare II,5,0,1097,3480.25,72,0,0,0,0,1,bombing|paid,Call of Booty,normal,high
+208117717,Call of Duty: Modern Warfare II,5,0,1097,10.78333333,1,0,0,0,0,0,bombing|paid,Dont do it,normal,medium
+208120341,Call of Duty: Modern Warfare II,5,0,1097,5.633333333,1,0,0,0,0,0,bombing|paid,fun,paid,high
+208083055,Apex Legends,5,0,2459,387.5833333,1,0,0,0,0,0,bots|paid,its good,normal,medium
+207894912,The Witcher 3: Wild Hunt,5,0,999,34.2,2,0,0,0,0,0,normal,good,normal,medium
+208353306,Counter-Strike 2,5,0,766,1579.866667,3,0,0,0,0,0,bots|bombing,"conter
+\D",normal,high
+208029408,Call of Duty: Modern Warfare II,5,0,1096,65,2,0,0,0,0,0,bombing|paid,good,normal,high
+208354054,Counter-Strike 2,5,0,766,6.116666667,1,1,0,0,0,0,bots|bombing,fire,paid,low
+208354988,Counter-Strike 2,5,0,766,69.31666667,3,0,0,0,1,1,bots|bombing,Vary good game,normal,medium
+208172524,Rust,5,0,2526,20.88333333,2,0,0,0,0,0,bots,:),bots,low
+121577335,Domina,5,0,171,0.283333333,37,0,8,0,0,0,bombing,sucks,normal,medium
+208182711,Rust,5,0,2526,347.6833333,4,0,0,0,1,0,bots,YUM,normal,high
+208045559,Apex Legends,5,0,2459,402.7833333,1,0,0,0,0,0,bots|paid,amazing,normal,high
+208358825,Counter-Strike 2,5,0,766,8.983333333,1,1,0,0,0,1,bots|bombing,nice game recomanded,bots,medium
+208359896,Counter-Strike 2,5,0,766,339.55,3,0,0,0,1,0,bots|bombing,GOOD GAME,normal,medium
+49187265,Devotion,5,1,999,0.533333333,1,0,9,0,1,0,bombing,Taiwan No.1!!!,bots,high
+208076376,Call of Duty: Modern Warfare II,5,0,1097,29.13333333,1,0,0,0,0,0,bombing|paid,THIS IS THE BEST GAME EVER,normal,high
+208080326,Call of Duty: Modern Warfare II,5,0,1097,34.21666667,1,0,0,0,0,0,bombing|paid,no,normal,medium
+208356036,Counter-Strike 2,5,0,766,8.033333333,2,2,0,0,0,0,bots|bombing,dead already,bombing,low
+207964591,Call of Duty: Modern Warfare II,5,0,1096,79.71666667,1,0,0,0,0,0,bombing|paid,jmhnhmj,bots,medium
+207968306,Call of Duty: Modern Warfare II,5,0,1096,337.0833333,2,5,0,0,0,0,bombing|paid,BEST GAME,normal,high
+208131615,Apex Legends,5,0,2460,51.33333333,1,0,0,0,0,0,bots|paid,it is nice,normal,medium
+208145490,Apex Legends,5,0,2460,101.95,2,0,0,0,0,0,bots|paid,"like
+",normal,high
+208093016,Apex Legends,5,0,2459,1104.4,2,0,0,0,0,0,bots|paid,i like it,normal,high
+208103403,Apex Legends,5,0,2459,324.9666667,2,0,0,0,0,0,bots|paid,!!!,normal,medium
+207977025,Call of Duty: Modern Warfare II,5,0,1096,27.51666667,1,0,1,0,0,1,bombing|paid,kheily khafane agha,bots,low
+207981520,Call of Duty: Modern Warfare II,5,0,1096,12.21666667,1,0,0,0,0,0,bombing|paid,Great,paid,low
+208051621,Call of Duty: Modern Warfare II,5,0,1097,14.81666667,3,0,0,0,0,0,bombing|paid,tis gam no fuuum,normal,low
+208058022,Call of Duty: Modern Warfare II,5,0,1097,3.3,1,0,0,0,0,0,bombing|paid,ty6yhyt879ytiru7i5i,bots,medium
+208059602,Call of Duty: Modern Warfare II,5,0,1097,30.08333333,2,0,0,0,0,0,bombing|paid,"ja poes nxa
+",normal,high
+208037897,Call of Duty: Modern Warfare II,5,0,1096,17.53333333,1,0,0,0,0,0,bombing|paid,Great shitty game,normal,low
+207966894,The Witcher 3: Wild Hunt,5,0,999,12.2,1,0,0,0,1,0,normal,AWSOME,normal,medium
+208311640,Rust,5,0,2527,0.433333333,17,0,0,0,0,0,bots,dont rabotaet eeee kak tam ego ny karoche multyplaer online SERVERA koroche ne rabotat,normal,medium
+208079460,Apex Legends,5,0,2459,190.3,1,0,0,0,0,0,bots|paid,"It's still the best BR. It has a steep learning curve for beginners, but it is so rewarding once you get the hang of it. I highly recommend Apex to anyone who likes a challenge and experiencing just a super fun world with awesome characters.",normal,high
+208081625,Apex Legends,5,0,2459,18.15,3,0,0,0,0,0,bots|paid,Good,normal,high
+208254057,Call of Duty: Modern Warfare II,5,0,1099,3.2,10,0,0,0,0,0,bombing|paid,"IT GOOD?
+",bots,medium
+208256502,Call of Duty: Modern Warfare II,5,0,1099,3.75,1,0,0,0,0,1,bombing|paid,"disk alanı çok fazla
+",bots,medium
+208258444,Call of Duty: Modern Warfare II,5,0,1099,17.43333333,1,0,0,0,0,0,bombing|paid,Just Great.,normal,medium
+208258589,Call of Duty: Modern Warfare II,5,0,1099,10.66666667,1,0,0,0,0,1,bombing|paid,so amazing way better than fortnight,normal,medium
+208004381,Palworld,5,0,649,156.5666667,1,0,0,0,0,1,paid|bots,"Much pal, much world, Chillet is the best starter.",normal,high
+207719861,The Witcher 3: Wild Hunt,5,0,999,11.95,1,1,0,0,1,0,normal,GOOD,normal,high
+208229641,Call of Duty: Modern Warfare II,5,0,1099,36.65,1,0,0,0,0,0,bombing|paid,good game,normal,high
+208028977,Palworld,5,0,649,6.083333333,5,0,0,0,0,1,paid|bots,"fun as hell
+",paid,medium
+208218449,Call of Duty: Modern Warfare II,5,0,1098,118.1166667,2,0,0,0,0,0,bombing|paid,"good
+",normal,high
+208226586,Call of Duty: Modern Warfare II,5,0,1099,3.183333333,3,8,0,0,0,0,bombing|paid,GG,bots,medium
+208345744,Counter-Strike 2,5,0,766,35.76666667,1,0,0,0,0,0,bots|bombing,good,normal,high
+207991139,Call of Duty: Modern Warfare II,5,0,1096,251.2166667,2,2,0,0,0,0,bombing|paid,w,normal,high
+207998169,Call of Duty: Modern Warfare II,5,0,1096,139.4333333,2,0,0,0,0,0,bombing|paid,good,normal,high
+207998444,Call of Duty: Modern Warfare II,5,0,1096,3.083333333,4,0,0,0,0,1,bombing|paid,"Very good game espcly on PC, But make sure you have alot of storage thats for sure its like 150GB just for the start up so make sure to make some space but other than that its a good game and I enjoy it, GGP",normal,medium
+207999926,Call of Duty: Modern Warfare II,5,0,1096,14.78333333,1,0,0,0,0,0,bombing|paid,a,bots,low
+208004171,Call of Duty: Modern Warfare II,5,0,1096,1.566666667,1,0,0,0,1,0,bombing|paid,i mean its alright,bots,low
+208337051,Counter-Strike 2,5,0,766,312.8833333,1,0,0,0,1,0,bots|bombing,BES GERMS,normal,medium
+207990056,Call of Duty: Modern Warfare II,5,0,1096,1.016666667,1,0,0,0,1,1,bombing|paid,"Not for me (˶º⤙º˶)
+
+I'm not good enough (╥﹏╥)",normal,low
+207937318,Call of Duty: Modern Warfare II,5,0,1095,33,2,0,0,0,0,0,bombing|paid,I like da game,normal,high
+207938138,Call of Duty: Modern Warfare II,5,0,1095,281.85,1,0,0,0,0,0,bombing|paid,heavy asf,normal,medium
+207944042,Call of Duty: Modern Warfare II,5,0,1095,0.2,2,6,0,0,0,0,bombing|paid,"Download, download, download",paid,medium
+208156293,Apex Legends,5,0,2460,11.75,3,0,0,0,0,0,bots|paid,good,normal,medium
+208188065,Helldivers 2,5,0,544,97.98333333,1,0,0,0,0,0,bombing,good,normal,high
+208194185,Helldivers 2,5,0,544,5.933333333,32,0,0,0,0,0,bombing,UNDERTAKER!!!,bots,medium
+208167012,Apex Legends,5,0,2460,9.066666667,1,0,0,0,0,0,bots|paid,"Great game
+",paid,medium
+208117191,Apex Legends,5,0,2459,39.93333333,4,0,0,0,0,0,bots|paid,tyt,normal,high
+207963613,Call of Duty: Modern Warfare II,5,0,1096,205.25,1,0,0,0,0,0,bombing|paid,awesome game,normal,high
+208349481,Counter-Strike 2,5,0,766,12.48333333,2,0,0,0,0,0,bots|bombing,67,bots,medium
+208345242,Counter-Strike 2,5,0,766,276.9166667,1,0,0,0,1,1,bots|bombing,best,normal,medium
+208345403,Counter-Strike 2,5,0,766,65.65,1,0,0,0,0,0,bots|bombing,Best game ever,normal,high
+208098947,Rust,5,0,2525,411.7666667,2,0,0,0,1,0,bots,Fun,normal,high
+208253789,Call of Duty: Modern Warfare II,5,0,1099,9.066666667,4,0,0,0,0,0,bombing|paid,a,paid,medium
+208250257,Grand Theft Auto V,5,0,3062,24.08333333,1,0,0,0,1,0,bombing,NICE,normal,medium
+208251115,Grand Theft Auto V,5,0,3062,31.6,1,0,0,0,1,1,bombing,"baddd
+",normal,medium
+208346489,Counter-Strike 2,5,0,766,16.91666667,1,4,0,0,0,0,bots|bombing,"SUGI PLA COAIE
+",bots,low
+208332678,Grand Theft Auto V,5,0,3063,55.08333333,1,0,0,0,1,0,bombing,"ITS GREAT 
+",normal,low
+49203330,Devotion,5,1,999,0.316666667,1,0,3,16,0,0,bombing,It's about culture and national identity. Bad move!,bombing,high
+208343856,Counter-Strike 2,5,0,766,151.2333333,1,1,0,0,0,0,bots|bombing,good game bro,normal,medium
+208188429,Apex Legends,5,0,2460,3.916666667,5,0,0,0,0,0,bots|paid,ITS FUN,paid,medium
+208187312,Helldivers 2,5,0,544,68.48333333,4,0,0,0,0,0,bombing,WE NEED MORE REINFORCEMENTS,normal,medium
+207716014,Hades,5,0,999,7.35,2,0,1,0,0,0,normal,10-Oct,normal,high
+49206782,Devotion,5,1,999,0.983333333,1,0,6,0,0,0,bombing,"Amazing quality and experience, I love it!
+This game deserve some supports and good feedback uwu!!",paid,high
+208320152,Grand Theft Auto V,5,0,3063,29.1,2,0,0,0,1,0,bombing,FGUTJTDN,normal,medium
+208207493,Rust,5,0,2526,1017.416667,1,2,0,0,1,0,bots,Gg,bots,low
+208340915,Counter-Strike 2,5,0,766,3.8,6,0,0,0,0,0,bots|bombing,Y,bots,medium
+208341582,Counter-Strike 2,5,0,766,1480.166667,1,0,0,0,0,0,bots|bombing,fyg,bots,low
+208341813,Counter-Strike 2,5,0,766,211.55,1,0,0,0,1,0,bots|bombing,GOOD GAME,normal,medium
+208342643,Counter-Strike 2,5,0,766,79.45,1,0,0,0,1,1,bots|bombing,Game is buns ngl,normal,high
+208216631,Rust,5,0,2526,5.883333333,1,0,0,0,1,0,bots,DDI,bots,high
+208217772,Rust,5,0,2526,26.95,1,0,0,0,1,1,bots,so fun,normal,low
+208327997,Counter-Strike 2,5,0,766,160.6,1,0,0,0,0,0,bots|bombing,Good Game,normal,medium
+208299772,Grand Theft Auto V,5,0,3062,0.45,1,11,1,0,1,1,bombing,i love this game 10/10 should get it,paid,medium
+49212971,Devotion,5,1,999,0.35,1,0,6,0,0,0,bombing,Like an interactive movie!!!,paid,high
+207736595,Hades,5,0,999,13.8,4,0,0,0,1,0,normal,ITS PEAKINGTON,normal,medium
+208208570,Apex Legends,5,0,2460,6.1,2,1,0,0,0,1,bots|paid,"Loaded game
+crashes
+load game
+crashes
+load game, start a game, drop at hot zone. die to 3 stack of preds. 
+game crashes
+break something
+",paid,low
+208176399,Apex Legends,5,0,2460,883.6166667,1,0,0,0,0,0,bots|paid,t,bots,low
+208181515,Apex Legends,5,0,2460,412.7833333,2,0,0,0,0,0,bots|paid,6.76768E+15,bots,low
+208182852,Apex Legends,5,0,2460,291.8,2,2,0,0,0,1,bots|paid,"Love the game, matchmaking could improve but overall really good for free game.",normal,high
+208184045,Apex Legends,5,0,2460,4.266666667,1,0,0,0,0,0,bots|paid,very nice,paid,medium
+208265418,Grand Theft Auto V,5,0,3062,28.98333333,3,0,0,0,1,1,bombing,really coo,normal,medium
+208273272,Grand Theft Auto V,5,0,3062,412.1666667,2,0,0,0,0,0,bombing,I love it :),normal,high
+208338507,Counter-Strike 2,5,0,766,47.55,1,4,0,0,0,0,bots|bombing,PEAK.,normal,high
+208334634,Counter-Strike 2,5,0,766,501.55,1,0,0,0,0,0,bots|bombing,Best Game,normal,high
+208242556,Grand Theft Auto V,5,0,3062,184.3166667,1,0,0,0,1,1,bombing,god,normal,high
+208194372,Apex Legends,5,0,2460,994.8166667,1,0,0,0,0,0,bots|paid,clunky game ngl,normal,high
+208325531,Counter-Strike 2,5,0,766,5.916666667,1,0,0,0,0,1,bots|bombing,great but not if you dont understand bullet travel and spray,normal,high
+208159332,Grand Theft Auto V,5,0,3061,530.1,3,0,0,0,1,1,bombing,i was blown up,normal,high
+208165554,Grand Theft Auto V,5,0,3061,29.9,1,2,0,0,1,0,bombing,NOTHING,normal,medium
+208168445,Grand Theft Auto V,5,0,3061,9.95,1,0,0,0,1,0,bombing,ZZZZ,normal,medium
+208326970,Counter-Strike 2,5,0,766,281.85,2,1,0,0,0,0,bots|bombing,"best game
+",normal,medium
+208323754,Counter-Strike 2,5,0,766,1158.3,1,0,0,0,0,0,bots|bombing,no,normal,medium
+208335116,Counter-Strike 2,5,0,766,20.48333333,1,0,0,0,0,0,bots|bombing,"کیری
+",bots,high
+208333345,Counter-Strike 2,5,0,766,359.7666667,1,0,0,0,1,1,bots|bombing,Best game ever,normal,high
+208202008,Apex Legends,5,0,2460,10.8,1,0,0,0,0,0,bots|paid,bad,normal,medium
+208202241,Apex Legends,5,0,2460,2536.683333,1,0,0,0,0,1,bots|paid,Apex is difficult to master but satisfying movement and gun play make the game worth it.,normal,high
+208204626,Apex Legends,5,0,2460,5070.733333,1,0,0,0,0,1,bots|paid,"fun game addicting lots of nuance to learn to get better honesty not beginner friendly in this late of the game but MMR ""Should""help negate that",normal,high
+208208161,Apex Legends,5,0,2460,324.55,5,0,0,0,0,0,bots|paid,EA is garbage,bombing,medium
+208208267,Apex Legends,5,0,2460,49.33333333,1,0,0,0,0,1,bots|paid,Great game. Hard to begin with but worth the effort,normal,high
+208330324,Counter-Strike 2,5,0,766,4921.1,1,0,0,0,0,0,bots|bombing,Its хуйня ебаная,,
+208331108,Counter-Strike 2,5,0,766,27.13333333,1,0,0,0,0,0,bots|bombing,"awesome
+",,
+207898878,Palworld,5,0,648,32.08333333,1,0,0,0,1,0,paid|bots,ITS PEAK,,
+208266475,Helldivers 2,5,0,545,12.6,17,0,0,0,0,0,bombing,FOR DEMOCRACY!!!,,
+207971905,Apex Legends,5,0,2458,372.6,1,0,0,0,0,0,bots|paid,ok game,,
+207978170,Apex Legends,5,0,2458,23.55,1,0,0,0,0,0,bots|paid,fun,,
+207935381,Apex Legends,5,0,2457,83.58333333,2,0,0,0,0,0,bots|paid,no,,
+208260211,Call of Duty: Modern Warfare II,5,0,1099,23.81666667,2,0,0,0,1,0,bombing|paid,GG,,
+208267744,Call of Duty: Modern Warfare II,5,0,1099,13.08333333,1,0,0,0,0,0,bombing|paid,"kood
+",,
+207678753,Fallout 76,5,0,2535,0.383333333,4,0,0,1,1,0,bombing,decent!,,
+207931631,Palworld,5,0,648,92.43333333,1,2,0,0,1,1,paid|bots,highly recommend game play with friend and have fun,,
+207972723,Palworld,5,0,649,113.0333333,3,0,2,0,0,0,paid|bots,I LOVE BALLS,,
+208329478,Counter-Strike 2,5,0,766,1899.866667,1,2,0,0,0,0,bots|bombing,".
+",,
+208329513,Counter-Strike 2,5,0,766,142.8,1,2,0,0,1,0,bots|bombing,BEST GAME,,
+208330222,Counter-Strike 2,5,0,766,34.1,1,0,0,0,1,1,bots|bombing,easy to gamble 5/5,,
+208325146,Counter-Strike 2,5,0,766,20.7,1,0,0,0,0,0,bots|bombing,good game,,
+207770576,Hades,5,0,999,158.1166667,4,0,0,0,0,0,normal,Highly recommendable game. Why is everyone hot tho?,,
+208238933,Apex Legends,5,0,2461,1.216666667,1,0,0,0,0,0,bots|paid,this game has gone down hill a lot.,,
+208324478,Counter-Strike 2,5,0,766,9.233333333,2,0,0,0,0,0,bots|bombing,It is really fun,,
+208145102,Grand Theft Auto V,5,0,3061,112.7,1,0,0,0,1,0,bombing,GOOD,,
+208156935,Grand Theft Auto V,5,0,3061,39.25,3,0,0,0,1,0,bombing,OK,,
+208321938,Counter-Strike 2,5,0,766,201.8333333,1,0,0,0,0,0,bots|bombing,bad.,,
+208252804,Apex Legends,5,0,2461,80.81666667,2,0,0,0,0,1,bots|paid,"teamates will almost always be worse than you, and you'll have to babysit them. sometimes you get good teamates though. play with friends..",,
+208258754,Apex Legends,5,0,2461,4.583333333,1,0,0,0,0,0,bots|paid,cpp;,,
+208030000,ELDEN RING,5,0,1340,17.4,2,0,0,0,0,0,bombing,"This game is so Good that after playing for like 600 hours on a cracked version I had to buy and complete it.
+10/10",,
+208038971,ELDEN RING,5,0,1340,283.9333333,8,0,0,0,0,0,bombing,Masterpiece,,
+208212149,Apex Legends,5,0,2460,175.8166667,1,0,0,0,0,0,bots|paid,Two thumbs up!,,
+208143618,Grand Theft Auto V,5,0,3061,3.483333333,2,0,0,0,1,1,bombing,i like these game,,
+208240766,Rust,5,0,2527,20.8,3,0,0,0,0,0,bots,good game,,
+208320162,Counter-Strike 2,5,0,766,6,1,3,0,0,0,1,bots|bombing,gud,,
+208080660,Palworld,5,0,650,1.866666667,54,0,0,0,0,0,paid|bots,dih,,
+207675928,Fallout 76,5,0,2535,192.8166667,1,0,0,0,0,0,bombing,,,
+208281419,Call of Duty: Modern Warfare II,5,0,1099,20.31666667,1,0,0,0,0,0,bombing|paid,its fiire,,
+208281667,Call of Duty: Modern Warfare II,5,0,1099,4.483333333,2,0,0,0,0,0,bombing|paid,Sucks,,
+208325968,Dota 2,5,0,884,708.8,1,0,0,0,0,0,bots,shit game,,
+208331790,Dota 2,5,0,884,126.6666667,1,0,0,0,0,0,bots,Noice,,
+208335862,Dota 2,5,0,884,12.51666667,2,1,0,0,0,0,bots,8,,
+208336123,Dota 2,5,0,884,5679.483333,2,0,0,0,0,0,bots,eu so mayurerz,,
+208076727,Grand Theft Auto V,5,0,3060,45.33333333,1,0,0,0,1,0,bombing,COOL,,
+208318343,Counter-Strike 2,5,0,766,77.41666667,1,0,0,0,0,0,bots|bombing,"SHIT GAME, OKAYING AGAINST THE BIGGEST VIRGINS EVERYTIME I TOUCH THIS GAME 
+",,
+208318653,Counter-Strike 2,5,0,766,10.81666667,1,0,0,0,0,0,bots|bombing, best game ever,,
+208318795,Counter-Strike 2,5,0,766,3.066666667,2,0,0,0,0,0,bots|bombing,it good,,
+207822633,Hades,5,0,999,30.51666667,1,0,0,0,0,0,normal,W game,,
+208022595,ELDEN RING,5,0,1340,8.35,2,0,0,0,0,0,bombing,sword,,
+208287329,Apex Legends,5,0,2461,0.833333333,7,43,0,0,0,0,bots|paid,existe,,
+208287707,Apex Legends,5,0,2461,667.5166667,3,25,0,0,0,0,bots|paid,GREAT GAME,,
+208289606,Apex Legends,5,0,2461,25.46666667,3,0,0,0,0,0,bots|paid,very skibaty team,,
+208291391,Apex Legends,5,0,2461,204.05,3,0,0,0,0,0,bots|paid,Teammates are bots,,
+208318997,Counter-Strike 2,5,0,766,264.15,1,3,0,0,0,1,bots|bombing,Game,,
+208316010,Counter-Strike 2,5,0,766,10.58333333,1,0,0,0,1,1,bots|bombing,.,,
+208308609,Apex Legends,5,0,2461,309.4166667,1,0,0,0,0,0,bots|paid,hello,,
+208252671,Rust,5,0,2527,4.283333333,1,0,1,0,0,0,bots,"SIGMA GAME
+",,
+208314729,Dota 2,5,0,884,6564.95,1,0,0,0,0,0,bots,Great game,,
+207967591,Grand Theft Auto V,5,0,3059,16.15,1,0,0,0,1,1,bombing,sexy,,
+207968852,Grand Theft Auto V,5,0,3059,456.6166667,1,0,0,0,1,0,bombing,EVERYTHING,,
+208317512,Dota 2,5,0,884,28.21666667,3,0,0,0,0,0,bots,3123,,
+208304155,Dota 2,5,0,883,1464.4,3,0,0,0,0,0,bots,нет,,
+208316384,Counter-Strike 2,5,0,766,1077.933333,1,0,0,0,1,0,bots|bombing,A,,
+208317386,Counter-Strike 2,5,0,766,66.21666667,1,0,0,0,0,0,bots|bombing,"you like
+",,
+208004867,Grand Theft Auto V,5,0,3059,120.5833333,2,0,0,0,0,0,bombing,good,,
+208313768,Apex Legends,5,0,2462,0.4,5,0,0,0,0,0,bots|paid,"ERROR
+The client is not running the anti-cheat, or has failed the anti-cheat authentication 
+Alright, at least i know there are tons of cheaters in this game which the anti cheat is broken as fu3k, rEsPaWn & eA are keep breeding poisonous insects
+💩💩💩💩💩💩💩💩💩💩💩💩",,
+208315408,Apex Legends,5,0,2462,832.1666667,1,0,0,0,0,0,bots|paid,ITS A NICE GAME BETTER THAN COD AND THE REST NGL,,
+208280130,Apex Legends,5,0,2461,211.9166667,4,18,0,0,0,0,bots|paid,NICE,,
+208283552,Apex Legends,5,0,2461,14.93333333,2,0,0,0,0,0,bots|paid,.,,
+208012608,Grand Theft Auto V,5,0,3059,8.45,3,0,0,0,1,0,bombing,Yes,,
+208017831,Grand Theft Auto V,5,0,3059,14.33333333,1,0,0,0,1,0,bombing,BEST,,
+207941109,Apex Legends,5,0,2457,12.48333333,1,0,0,0,0,0,bots|paid,dog water,,
+207942147,Apex Legends,5,0,2457,1000.183333,1,0,0,0,0,0,bots|paid,If you like sanity please dont play it. 10/10 would recommend,,
+207904528,Apex Legends,5,0,2457,6,3,0,0,0,0,0,bots|paid,fell off ngl,,
+207919121,Apex Legends,5,0,2457,6.4,1,0,0,0,0,0,bots|paid,Love it,,
+207919999,Apex Legends,5,0,2457,80.55,1,0,0,0,0,0,bots|paid,it is a lot of fun,,
+207920549,Apex Legends,5,0,2457,2155.6,1,0,0,0,0,0,bots|paid,..,,
+208285058,Call of Duty: Modern Warfare II,5,0,1099,3.233333333,2,0,0,0,0,0,bombing|paid,yes,,
+208286261,Call of Duty: Modern Warfare II,5,0,1099,1.35,1,0,0,0,0,0,bombing|paid,"No support! Very glitchy, Cant log into my f account and there is no support from these a holes that only care about making money .... they dont get rid of hackers nothing. in general really BAD",,
+208291545,Call of Duty: Modern Warfare II,5,0,1099,0.083333333,3,0,1,0,0,0,bombing|paid,play any other fps trust me,,
+207658552,Fallout 76,5,0,2535,148.25,2,0,0,0,0,0,bombing,good game,,
+208314804,Counter-Strike 2,5,0,766,0.833333333,1,28,0,0,1,0,bots|bombing,musoro4ka,,
+208314945,Counter-Strike 2,5,0,766,548.2333333,2,0,0,0,0,0,bots|bombing,hui,,
+207882257,Hades,5,0,999,0.766666667,26,0,0,0,1,0,normal,Good,,
+207960747,ELDEN RING,5,0,1340,69.51666667,1,0,0,0,0,0,bombing,awesome!!,,
+208336989,Apex Legends,5,0,2462,7.983333333,3,0,0,0,0,1,bots|paid,"shoot people, u get kill. hacker come u die, qeue again, die to hacker. i love this game.",,
+208297054,Apex Legends,5,0,2461,0.616666667,14,0,0,0,0,0,bots|paid,"felt like playing a mobile game, tried to do a training bot match, the teammate bots just stood and shot at me for like a solid minute and then followed me so closely they would literally circle around me, horrid shit uninstalled immedietly",,
+208304824,Dota 2,5,0,883,2538.75,1,0,0,0,0,0,bots,good game for OG,,
+208305358,Dota 2,5,0,883,1076.016667,1,0,0,0,0,0,bots,for close,,
+207961133,Grand Theft Auto V,5,0,3059,139.7166667,1,0,0,0,1,1,bombing,god game,,
+208034565,Dota 2,5,0,880,3943.85,1,2,0,0,0,0,bots,nice,,
+208035245,Dota 2,5,0,880,2717.1,1,0,0,0,0,0,bots,i am pro level,,
+208035266,Dota 2,5,0,880,1109.983333,1,0,0,0,0,0,bots, fun game,,
+208328460,Apex Legends,5,0,2462,49.41666667,1,0,0,0,0,0,bots|paid,ok,,
+208291777,Dota 2,5,0,883,1011.566667,1,0,0,0,0,0,bots,Dead game™️,,
+208293665,Dota 2,5,0,883,981.2666667,1,0,0,0,0,0,bots,Very good,,
+208294316,Dota 2,5,0,883,31.83333333,1,0,0,0,0,0,bots,Good Game,,
+208294401,Dota 2,5,0,883,85.41666667,2,0,0,0,0,0,bots,too myopic,,
+208251029,Call of Duty: Modern Warfare II,5,0,1099,10,1,0,0,0,0,0,bombing|paid,"its good
+",,
+208308571,Call of Duty: Modern Warfare II,5,0,1099,88.05,1,0,0,0,0,0,bombing|paid,very good,,
+207887203,Palworld,5,0,648,527,2,0,0,0,0,0,paid|bots,good game,,
+207896138,Palworld,5,0,648,6.033333333,4,0,0,0,0,0,paid|bots,okay,,
+208272270,Helldivers 2,5,0,545,22.5,2,93,0,0,0,0,bombing,FOR DEMOCRACY,,
+208227384,Dota 2,5,0,883,122.35,1,0,0,0,0,0,bots,.02145.356413,,
+208228203,Dota 2,5,0,883,239.6166667,1,0,0,0,0,0,bots,тинкер в говне),,
+208254174,Cyberpunk 2077,5,0,1785,268.6,3,0,0,0,1,0,bombing,ITS GOOD,,
+208301230,Dota 2,5,0,883,1081.166667,1,0,0,0,0,0,bots,Pula,,
+208302386,Dota 2,5,0,883,1318.483333,3,0,0,0,0,0,bots,Classic and free,,
+208261244,Dota 2,5,0,883,37.4,4,112,0,0,0,0,bots,HENTAI,,
+208266728,Dota 2,5,0,883,6966.433333,1,0,0,0,0,1,bots,its a great game but at times it makes you want to kill yourself. this is because your team doesnt listen or your pos 5 go carry build,,
+207920205,ELDEN RING,5,0,1339,119.7,62,0,0,0,0,0,bombing,"YES,,, JUST YES",,
+208047213,Dota 2,5,0,881,4694.933333,3,0,0,0,0,0,bots,Perfect game ever,,
+208048133,Dota 2,5,0,881,3104.433333,1,0,0,0,0,0,bots,BEST GAME FOR DESTROYING YOUR MENTAL CAPACITY,,
+208048908,Dota 2,5,0,881,1679.183333,1,0,0,0,0,0,bots,mantab,,
+208032506,Dota 2,5,0,880,99.08333333,1,0,0,0,0,1,bots,this game is hell for anyone whether u are beginner or old school,,
+208286186,Dota 2,5,0,883,185.3666667,2,0,0,0,0,0,bots,nice game,,
+208287136,Dota 2,5,0,883,2203.15,1,0,0,0,0,1,bots,masaya magdota nakaka wala ng stress,,
+208014015,Stardew Valley,5,0,999,143.0166667,1,0,0,0,1,0,normal,SO FUN,,
+208304683,Dota 2,5,0,883,407.15,1,1,0,0,0,0,bots,Мммм Дота,,
+208203500,Dota 2,5,0,882,3611.183333,1,10,0,0,0,0,bots,ASDA,,
+208207623,Dota 2,5,0,882,429.8,3,0,0,0,0,0,bots,This is life. Shh.,,
+207677462,ELDEN RING,5,0,1336,0.25,3,5,1,0,0,1,bombing,Favourite game in existence and One of the best soulsbornes - souls alikes,,
+208249188,Dota 2,5,0,883,148.85,2,0,0,0,0,0,bots,Эдмркжз уут,,
+208005723,Stardew Valley,5,0,999,294.3,2,0,0,0,0,0,normal,best game ever,,
+208010032,Stardew Valley,5,0,999,39.13333333,1,0,0,0,1,1,normal,iz sew guud,,
+208010294,Stardew Valley,5,0,999,85.13333333,2,0,0,0,1,0,normal,GREAT,,
+208000921,Stardew Valley,5,0,999,47.9,1,0,0,0,1,0,normal,GREAT GAME,,
+208064071,Dota 2,5,0,881,122.6333333,1,0,0,0,0,0,bots,Much better if they let players vent the frustration on the game 10/100 all the old playa will be back :D,,
+208038198,Dota 2,5,0,880,688.2333333,1,0,0,0,0,0,bots,-,,
+208038221,Dota 2,5,0,880,4261.3,1,0,0,0,0,0,bots,I REALLY LOVE THIS GAME,,
+208042005,Dota 2,5,0,880,1500.366667,4,0,0,0,0,0,bots,its good i guess,,
+207911878,ELDEN RING,5,0,1339,43.7,1,17,0,0,0,0,bombing,PEAK,,
+208220317,Dota 2,5,0,882,1003.883333,1,0,0,0,0,0,bots,...,,
+208223476,Dota 2,5,0,882,3037.1,1,0,0,0,0,0,bots,GOD Tier Game (DON'T PLAY IT!),,
+208226427,Dota 2,5,0,883,922.3333333,2,0,0,0,0,0,bots,Хорошая игра,,
+208066544,Dota 2,5,0,881,2282.283333,1,0,0,0,0,0,bots,good game,,
+208068779,Dota 2,5,0,881,6.883333333,1,0,0,0,0,0,bots,"nice
+",,
+207853141,ELDEN RING,5,0,1338,55.26666667,9,0,0,0,0,0,bombing,YOU DIED,,
+208072614,Dota 2,5,0,881,1005.15,2,0,0,0,0,0,bots,good,,
+208079722,Dota 2,5,0,881,1725.2,1,0,0,0,0,0,bots,asd,,
+207950507,Stardew Valley,5,0,999,113.7833333,2,0,0,0,1,0,normal,AMAZING,,
+208200654,Dota 2,5,0,882,2191.9,1,0,0,0,0,0,bots,cool,,
+208230877,Dota 2,5,0,883,79.56666667,1,0,0,0,0,0,bots,good,,
+208234758,Dota 2,5,0,883,2060.516667,1,0,0,0,0,0,bots,good game,,
+208235901,Dota 2,5,0,883,3850.6,1,0,0,0,0,0,bots,bad,,
+208237091,Dota 2,5,0,883,279.8666667,1,0,0,0,0,0,bots,.....,,
+208059669,Dota 2,5,0,881,2929.8,2,0,0,0,0,0,bots,говно ебаное,,
+208063838,Dota 2,5,0,881,2093.166667,1,0,0,0,0,0,bots,nice,,
+208259564,Rust,5,0,2527,48.28333333,1,0,0,0,1,0,bots,VERY FUN,,
+208264455,Rust,5,0,2527,4.25,3,0,0,0,0,1,bots,"зашел на сервер будки нету
+ушел с сервера будки нету
+зашел на другой сервер будки нету
+удалил игру будки нету
+вырос стал состоятельным человеком нефтяником а будки так и нет
+",,
+208202793,Dota 2,5,0,882,190.6166667,1,1,0,0,0,0,bots,🔥,,
+208133301,Dota 2,5,0,882,2598.4,1,0,0,0,0,0,bots,lza,,

@@ -1,0 +1,4 @@
+dataset=breastw
+rows=683
+features=9
+positive_rate(malignant_as_anomaly)=0.3499

@@ -1,0 +1,4 @@
+dataset=breastw_cluster_5pct
+rows=466
+features=9
+positive_rate=0.0472

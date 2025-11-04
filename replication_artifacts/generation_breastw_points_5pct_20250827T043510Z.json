@@ -1,0 +1,6 @@
+{
+  "type": "point",
+  "contamination": 0.05,
+  "spike_sigma": 6.0,
+  "seed": 42
+}
